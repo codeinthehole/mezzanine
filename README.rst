@@ -464,7 +464,7 @@ of `Tabblo`_
     with the initial experience and the community involved in its
     development
     
- `John Campbell`_, founder of `Head3 Interactive`_
+`John Campbell`_, founder of `Head3 Interactive`_
 
     You need to check out the open source project Mezzanine. In one word: Elegant
     
